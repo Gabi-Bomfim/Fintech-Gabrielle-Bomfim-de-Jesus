@@ -1,0 +1,44 @@
+nav {
+    z-index: 1;
+    background-color: rgba(16, 125, 129, 0.985);
+    font-size: 20px;
+}
+
+.nav-item {
+    margin: 0 20px;
+
+}
+
+p1 {
+    margin-left: 20px;
+    font-size: 26px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(166, 239, 242);
+    background-color: rgba(33, 33, 33, 0.408);
+
+}
+
+p2 {
+    margin-left: 20px;
+    font-size: 26px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(166, 239, 242);
+    background-color: rgba(33, 33, 33, 0.408);
+
+}
+
+body {
+    background-image:url(./background-\ ed.jpg) !important;
+    image-rendering: 100%;
+}
+
+h1 {
+    line-height: 11;
+
+}
+
+.button-registrar:hover {
+    opacity: 50%;
+
+}
+    
